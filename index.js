@@ -5,9 +5,9 @@ import random from "random";
 
 const CONFIG = {
     path: "./data.json",
-    startDate: "2024-01-01",
+    startDate: "2023-01-01",
     endDate: "2024-12-31",
-    maxWeeks: 54,
+    maxWeeks: 54*2,
     daysPerWeek: 7
 };
 
