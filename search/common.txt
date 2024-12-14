@@ -1061,8 +1061,6 @@ Okja
 Beasts of No Nation
 The Ballad of Buster Scruggs
 Da 5 Bloods
-
-
 Laptop Gaming
 Laptop Văn Phòng
 Laptop Đồ Họa
@@ -1083,7 +1081,6 @@ Laptop HDD
 Laptop RAM
 Laptop Card Rời
 Laptop Bảo Hành
-
 Xeon Server
 Xeon Workstation
 Xeon Gaming
